@@ -25,7 +25,7 @@
 &none &kp TAB   &kp Q &kp W &kp E &kp R &kp T    &kp Y &kp U &kp I     &kp O   &kp P    &kp LBKT      &none
       &kp LCTRL &kp A &kp S &kp D &kp F &kp G    &kp H &kp J &kp K     &kp L   &kp SEMI &mt RCTRL SQT
       &kp LALT  &kp Z &kp X &kp C &kp V &kp B    &kp N &kp M &kp COMMA &kp DOT &kp FSLH &mt RALT BSLH
-        &kp LGUI &mt LSHFT SPACE &lt LWR BSPC    &lt RSE TAB &mt RSHFT ENTER &kp DEL
+        &kp LGUI &lt LSHFT SPACE &lt LWR BSPC    &lt RSE TAB &lt RSHFT ENTER &kp DEL
                         >;
                 };
                 lower_layer {
